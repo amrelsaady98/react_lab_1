@@ -1,0 +1,21 @@
+.heroSection{
+    background-image: url("imgs/hero_background.jpg");
+    width: 100vw;
+    height: 500px;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+
+}
+.heroSection div{
+    color: white;
+    font-size: 1.5rem;
+    padding: 0 10rem ;
+}
+#contact_hero_sec_btn{
+    padding: 0.5rem;
+    font-size: 2rem;
+    margin-top: 6rem;
+    border: solid 2px white;
+}
+

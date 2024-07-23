@@ -1,0 +1,35 @@
+.aboutmeSection {
+    display: flex;
+}
+
+
+
+.aboutmeSection h1 {
+    width: fit-content;
+    padding: 2rem 0;
+    font-size: 4rem;
+}
+.aboutmeSection div{
+    width: 100%;
+}
+.aboutmeSection div p{
+    padding: 2rem 0;
+    width: 100%;
+    text-align: left;
+    font-size: 1.5rem;
+}
+.aboutmeSection div div{
+    padding: 0.5rem;
+    color: white;
+    font-size: 1.5rem;
+    background-color: indianred;
+    width: fit-content;
+    cursor: pointer;
+}
+.aboutmeSection div div:hover{
+    background-color: white;
+    color: indianred;
+    border: 1px solid indianred;
+}
+
+
